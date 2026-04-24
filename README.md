@@ -4,23 +4,23 @@ A Unity XR virtual campus experience demonstrating 3D user interaction technique
 
 ## Demo Video
 
-<video src="docs/recording.mp4" controls width="100%"></video>
+![VR Campus 3DUI preview](docs/demo/vr-campus-preview.gif)
 
 [Watch on YouTube](https://youtu.be/-i-w0VAhPEY)
 
 ## Screenshots
 
-### Hot-Air-Balloon Minimap
+### Fruit Feeding and Checklist Interaction
 
-![Hot Air Balloon Minimap](docs/screenshots/01-hot-air-balloon-minimap.jpg)
+![Fruit Feeding Checklist](docs/screenshots/02-checklist-fruit-feeding.jpg)
 
 ### Enlarged Minimap Teleport Selection
 
 ![Enlarged Minimap Teleport Selection](docs/screenshots/05-enlarged-minimap-teleport-selection.jpg)
 
-### Fruit Feeding and Checklist Interaction
+### Hot-Air-Balloon Minimap
 
-![Fruit Feeding Checklist](docs/screenshots/02-checklist-fruit-feeding.jpg)
+![Hot Air Balloon Minimap](docs/screenshots/01-hot-air-balloon-minimap.jpg)
 
 ## Features
 
