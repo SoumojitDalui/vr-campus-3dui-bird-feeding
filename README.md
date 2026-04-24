@@ -4,9 +4,8 @@ A Unity XR virtual campus experience demonstrating 3D user interaction technique
 
 ## Demo Video
 
-![VR Campus 3DUI preview](docs/vr-campus-preview.gif)
-
-[Watch on YouTube](https://youtu.be/-i-w0VAhPEY)
+![VR Campus 3DUI preview](https://github.com/SoumojitDalui/vr-campus-3dui-bird-feeding/blob/main/docs/recording.gif)
+[Watch Full Video on YouTube](https://youtu.be/-i-w0VAhPEY)
 
 ## Screenshots
 
