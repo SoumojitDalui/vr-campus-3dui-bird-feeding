@@ -4,7 +4,7 @@ A Unity XR virtual campus experience demonstrating 3D user interaction technique
 
 ## Demo Video
 
-![VR Campus 3DUI preview](docs/demo/vr-campus-preview.gif)
+![VR Campus 3DUI preview](docs/vr-campus-preview.gif)
 
 [Watch on YouTube](https://youtu.be/-i-w0VAhPEY)
 
